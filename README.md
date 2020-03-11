@@ -1,6 +1,6 @@
 # Da Vinci Resolve PrintBins
 
-Print all currently visible Resolve bin names and save as a text file. Requires DaVinci Resolve 15.2 and above.
+Print all currently visible Resolve bin names and save as a text file. Requires Python 2.7 64-bit (Windows only), DaVinci Resolve 15.2 and above.
 
 For access via the scripts dropdown menu (Windows) place this script in:
 
